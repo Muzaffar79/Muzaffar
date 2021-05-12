@@ -1,0 +1,22 @@
+@media(min-width:768px){
+    .catalog{
+        max-width: 47%;
+   margin: 5px;
+   border-radius: 10px;
+    }
+}
+
+@media(min-width:992px){
+    .catalog{
+        max-width: 32%;
+   margin: 5px;
+   border-radius: 10px;
+    }
+}
+@media(min-width:1200px){
+    .catalog{
+        max-width: 24%;
+   margin: 5px;
+   border-radius: 10px;
+    }
+}

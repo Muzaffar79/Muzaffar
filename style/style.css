@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p {
+    font-weight: 600;
+    color:blue;
+ }
+ h2{
+     color: brown;
+     font-weight: 700;
+ }
